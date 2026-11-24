@@ -3,7 +3,9 @@
 
 Writes one original satirical sentence (at most 320 characters) roasting
 lawmakers who would regulate AI, crypto or the internet but cannot convert
-a file to PDF, to /output/entry.txt.
+a file to PDF, to /output/entry.txt. The sentence sets up the lawmaker's
+authority first, then undercuts it with the file he cannot convert, and
+lands its punch on the last few words.
 """
 
 import os
